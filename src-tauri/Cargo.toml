@@ -2,7 +2,7 @@
 name = "apexchat"
 version = "0.1.0"
 description = "A cross platform app for LLM ChatBot."
-authors = ["Yidadaa"]
+authors = ["salimuddin07"]
 license = "mit"
 repository = ""
 default-run = "apexchat"

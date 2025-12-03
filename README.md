@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href='https://github.com/salimuddin07/nextchat_ai'>
+<a href='https://github.com/salimuddin07/ApexChat'>
   <img src="./docs/images/cover.png" width="1000" alt="ApexChat AI"/>
 </a>
 
@@ -10,12 +10,12 @@ English | [العربية](./README_AR.md) | [简体中文](./README_CN.md)
 
 ✨ A customized AI Assistant with npm-based workflow, supporting Claude, DeepSeek, GPT-4 & Gemini Pro
 
-[![Vercel](https://img.shields.io/badge/Deploy-Vercel-green?logo=vercel)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsalimuddin07%2Fnextchat_ai)
+[![Vercel](https://img.shields.io/badge/Deploy-Vercel-green?logo=vercel)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsalimuddin07%2FApexChat)
 [![Docker](https://img.shields.io/badge/Deploy-Docker-blue?logo=docker)](https://hub.docker.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/salimuddin07/nextchat_ai?style=social)](https://github.com/salimuddin07/nextchat_ai)
+[![GitHub Stars](https://img.shields.io/github/stars/salimuddin07/ApexChat?style=social)](https://github.com/salimuddin07/ApexChat)
 
-[🚀 Live Demo](#) | [📖 Documentation](docs/) | [🐛 Issues](https://github.com/salimuddin07/nextchat_ai/issues) | [⭐ Star this repo](https://github.com/salimuddin07/nextchat_ai)
+[🚀 Live Demo](#) | [📖 Documentation](docs/) | [🐛 Issues](https://github.com/salimuddin07/ApexChat/issues) | [⭐ Star this repo](https://github.com/salimuddin07/ApexChat)
 
 </div>
 
@@ -44,8 +44,8 @@ English | [العربية](./README_AR.md) | [简体中文](./README_CN.md)
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/salimuddin07/nextchat_ai.git
-cd apexchat_ai
+git clone https://github.com/salimuddin07/ApexChat.git
+cd ApexChat
 ```
 
 2. **Install dependencies:**
@@ -100,7 +100,7 @@ docker-compose up -d
 
 ### Deploy to Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsalimuddin07%2Fnextchat_ai&env=OPENAI_API_KEY&env=CODE&project-name=nextchat-ai&repository-name=nextchat_ai)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsalimuddin07%2FApexChat&env=OPENAI_API_KEY&env=CODE&project-name=apexchat-ai&repository-name=ApexChat)
 
 ### Deploy to Railway
 
@@ -108,7 +108,7 @@ docker-compose up -d
 
 ### Deploy to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/salimuddin07/nextchat_ai)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/salimuddin07/ApexChat)
 
 ## ⚙️ Configuration
 
@@ -224,8 +224,8 @@ node --version  # Should be 18+
 ### Getting Help
 
 - 📖 Check the [Documentation](docs/)
-- 🐛 Report bugs in [Issues](https://github.com/salimuddin07/nextchat_ai/issues)
-- 💬 Join discussions in [Discussions](https://github.com/salimuddin07/nextchat_ai/discussions)
+- 🐛 Report bugs in [Issues](https://github.com/salimuddin07/ApexChat/issues)
+- 💬 Join discussions in [Discussions](https://github.com/salimuddin07/ApexChat/discussions)
 
 ## 📄 License
 
@@ -233,21 +233,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Original project** by [ChatGPTNextWeb](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
 - **All AI providers** for their amazing APIs
 - **Open source community** for contributions and feedback
 - **Contributors** who help improve this project
+- **Inspired by** the open-source AI chat community
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/salimuddin07/nextchat_ai?style=social)
-![GitHub forks](https://img.shields.io/github/forks/salimuddin07/nextchat_ai?style=social)
-![GitHub issues](https://img.shields.io/github/issues/salimuddin07/nextchat_ai)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/salimuddin07/nextchat_ai)
+![GitHub stars](https://img.shields.io/github/stars/salimuddin07/ApexChat?style=social)
+![GitHub forks](https://img.shields.io/github/forks/salimuddin07/ApexChat?style=social)
+![GitHub issues](https://img.shields.io/github/issues/salimuddin07/ApexChat)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/salimuddin07/ApexChat)
 
 ## 🔗 Links
 
-- **[GitHub Repository](https://github.com/salimuddin07/nextchat_ai)**
+- **[GitHub Repository](https://github.com/salimuddin07/ApexChat)**
 - **[Live Demo](#)** (Update with your deployment URL)
 - **[Documentation](docs/)**
 - **[Changelog](CHANGELOG.md)**
