@@ -65,7 +65,6 @@ export const metadata: Metadata = {
   classification: "Artificial Intelligence",
   robots:
     "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-  googlebot: "index, follow",
   openGraph: {
     type: "website",
     title: "ApexChat AI by Saiyed Salimuddin - Advanced AI Assistant Platform",
