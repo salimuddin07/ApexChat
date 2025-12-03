@@ -1,4 +1,27 @@
+# Robots.txt for ApexChat AI
+# https://github.com/salimuddin07/ApexChat
+
 User-agent: *
-Disallow: /
+Allow: /
+
+# Important pages for indexing
+Allow: /#/chat
+Allow: /#/new-chat
+Allow: /#/settings
+Allow: /#/masks
+Allow: /#/plugins
+Allow: /#/sd
+
+# Block admin or sensitive areas
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: https://apexchat-ai.vercel.app/sitemap.xml
+
+# Crawl delay (optional)
+Crawl-delay: 1 /
 User-agent: vitals.vercel-insights.com
 Allow: /

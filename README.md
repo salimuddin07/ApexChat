@@ -256,7 +256,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by [Salim Uddin](https://github.com/salimuddin07)**
+**Made with ❤️ by [Saiyed Salimuddin](https://www.salimuddin.tech/)**
 
 ⭐ **Star this repo if you find it helpful!** ⭐
 
